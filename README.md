@@ -34,8 +34,8 @@ CAR-Analysis/
 ├── CAR_Analysis.ipynb   # Main analysis notebook
 ├── dataset.csv          # Dataset (if uploaded)
 └── README.md            # Project documentation
-Clone the repository
-git clone https://github.com/your-username/car-analysis.git
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/78a2fde7-ee63-4acf-bf57-10211a8e24cc" />
+
 Open Jupyter Notebook
 jupyter notebook
 Run CAR_Analysis.ipynb
